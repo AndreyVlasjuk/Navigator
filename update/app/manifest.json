@@ -1,0 +1,9 @@
+{
+  "versionCode": 200,
+  "versionName": "0.2.0",
+  "apk": {
+    "name": "app-release.apk",
+    "size": 28295304,
+    "sha256": "95b25e5f85449cabd20581da31786e300e6877d59fd50e0bbb6a86e7f2b31804"
+  }
+}
