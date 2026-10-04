@@ -1,9 +1,9 @@
 {
-  "versionCode": 1000,
-  "versionName": "0.10.0",
+  "versionCode": 1001,
+  "versionName": "0.10.1",
   "apk": {
     "name": "app-release.apk",
-    "size": 30749835,
-    "sha256": "13833550446bb50d2c79b2b87bc038dffa3a7c59eab0787afa302ff9f4d7a11b"
+    "size": 30766219,
+    "sha256": "a4a28052e524bef17e0e3607d24edcc9304bb3e73c860f4040bc764d4c35d9ae"
   }
 }
