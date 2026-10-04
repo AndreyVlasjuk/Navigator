@@ -1,9 +1,9 @@
 {
-  "versionCode": 802,
-  "versionName": "0.8.2",
+  "versionCode": 803,
+  "versionName": "0.8.3",
   "apk": {
     "name": "app-release.apk",
     "size": 30749831,
-    "sha256": "283486accd0ec1e90157f9f7ed6f770882cedbbd4c240240c5b63f9a8a02bb21"
+    "sha256": "50a082c84ff48c8255b1863a8d692e82c48e7f9bc2b665a11f076cda576588ec"
   }
 }
